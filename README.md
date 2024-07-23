@@ -32,7 +32,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emirgit&theme=algolia&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirgit&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirgit&theme=algolia&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph"  />
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=emirgit&theme=algolia&hide_border=false" height="175" alt="streak graph"  />
 </div>
@@ -61,3 +61,5 @@
   </a>&nbsp;&nbsp;&nbsp;
 
 </div>
+
+[![](https://visitcount.itsvg.in/api?id=emirgit&icon=0&color=1)](https://visitcount.itsvg.in)
