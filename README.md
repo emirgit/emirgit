@@ -5,7 +5,7 @@
 <p align="center">I am a passionate student at <a href="https://www.gtu.edu.tr/en">Gebze Technical University</a> in <img src="https://cdn-icons-png.flaticon.com/512/197/197518.png" width="13" alt="Turkey Flag"/> <b>Turkey</b>.</p>
 
 <hr>
-<img src="https://github.com/emirgit/emirgit/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="auto" height="210" />
+<img src="https://github.com/emirgit/emirgit/blob/main/assets/life_balance.gif" alt="side Image" align="right" width="auto" height="210" />
 
 <h2>⚡️ A Few Quick Facts About Me</h2>
 <ul>
@@ -43,15 +43,15 @@
   <h2>📫 How to reach me</h2>
   
   <p>You can reach me from my email, linkedin or github profile. Follow my socials!</p>
-  <img src="https://github.com/emirgit/emirgit/blob/master/assets/linkedin_logo.svg" height="50" alt="Linkedin Logo" href="https://www.linkedin.com/in/muhammed-emir-kara-787605251/" />
-  <img src="https://github.com/emirgit/emirgit/blob/master/assets/gmail_logo.svg" height="50" alt="Mail Logo" href="mailto:m.emir.kara.business@gmail.com" />
+  <img src="https://github.com/emirgit/emirgit/blob/main/assets/linkedin_logo.svg" height="50" alt="Linkedin Logo" href="https://www.linkedin.com/in/muhammed-emir-kara-787605251/" />
+  <img src="https://github.com/emirgit/emirgit/blob/main/assets/gmail_logo.svg" height="50" alt="Mail Logo" href="mailto:m.emir.kara.business@gmail.com" />
 </div>
 
 
 <div align="center">
   <h2>📢 Find me elsewhere</h2>
   <a href="https://leetcode.com/Emir_28/">
-    <img src="https://raw.githubusercontent.com/emirgit/emirgit/master/asstes/leetcode_logo.svg" alt="leetcode" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/emirgit/emirgit/main/asstes/leetcode_logo.svg" alt="leetcode" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
 
 </div>
