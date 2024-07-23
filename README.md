@@ -51,7 +51,7 @@
 <div align="center">
   <h2>📢 Find me elsewhere</h2>
   <a href="https://leetcode.com/Emir_28/">
-    <img src="https://raw.githubusercontent.com/emirgit/emirgit/main/asstes/leetcode_logo.svg" alt="leetcode" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/emirgit/emirgit/blob/main/assets/leetcode_logo.svg" alt="leetcode" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
 
 </div>
