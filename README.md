@@ -47,7 +47,10 @@
     <img src="https://github.com/emirgit/emirgit/blob/main/assets/linkedin_logo.svg" height="50" alt="Linkedin Logo" />
   </a>
 
-  <img src="https://github.com/emirgit/emirgit/blob/main/assets/gmail_logo.svg" height="50" alt="Mail Logo" href="mailto:m.emir.kara.business@gmail.com" />
+  <a href="mailto:m.emir.kara.business@gmail.com">
+    <img src="https://github.com/emirgit/emirgit/blob/main/assets/gmail_logo.svg" height="50" alt="Mail Logo" />
+  </a>
+
 </div>
 
 
