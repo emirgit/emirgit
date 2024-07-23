@@ -43,7 +43,10 @@
   <h2>📫 How to reach me</h2>
   
   <p>You can reach me from my email, linkedin or github profile. Follow my socials!</p>
-  <img src="https://github.com/emirgit/emirgit/blob/main/assets/linkedin_logo.svg" height="50" alt="Linkedin Logo" href="https://www.linkedin.com/in/muhammed-emir-kara-787605251/" />
+  <a href="https://www.linkedin.com/in/muhammed-emir-kara-787605251/">
+    <img src="https://github.com/emirgit/emirgit/blob/main/assets/linkedin_logo.svg" height="50" alt="Linkedin Logo" />
+  </a>
+
   <img src="https://github.com/emirgit/emirgit/blob/main/assets/gmail_logo.svg" height="50" alt="Mail Logo" href="mailto:m.emir.kara.business@gmail.com" />
 </div>
 
