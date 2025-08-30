@@ -62,4 +62,8 @@
 
 </div>
 
-![](https://komarev.com/ghpvc/?username=emirgit&label=Profile%20views&color=ce9927&style=flat)
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=emirgit&label=Profile%20views&color=blue&style=flat)
+
+</div>
