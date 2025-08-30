@@ -62,4 +62,4 @@
 
 </div>
 
-![](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Femirgit%2F&countColor=%237B1E7A)
+![](https://komarev.com/ghpvc/?username=emirgit&label=Profile%20views&color=ce9927&style=flat)
