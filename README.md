@@ -62,4 +62,4 @@
 
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=emirgit&icon=0&color=1)](https://visitcount.itsvg.in)
+![](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Femirgit%2F&countColor=%237B1E7A)
