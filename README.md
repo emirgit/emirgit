@@ -5,12 +5,12 @@
 <p align="center">I am a passionate student at <a href="https://www.gtu.edu.tr/en">Gebze Technical University</a> in <img src="https://cdn-icons-png.flaticon.com/512/197/197518.png" width="13" alt="Turkey Flag"/> <b>Turkey</b>.</p>
 
 <hr>
-<img src="https://github.com/emirgit/emirgit/blob/main/assets/life_balance.gif" alt="side Image" align="right" width="auto" height="210" />
+<img src="https://raw.githubusercontent.com/emirgit/emirgit/main/assets/life_balance.gif" alt="side Image" align="right" width="auto" height="210" />
 
 <h2>⚡️ A Few Quick Facts About Me</h2>
 <ul>
   <li>🧐 I’m currently learning about <strong>React</strong>, and a bit of <strong>CV</strong>.</li>
-  <li>👨‍💻 Many of my projects are currently not available on <a href="https://github.com/emirgit">GitHub</a>.</li>
+  <li>👨‍💻 I'm currently preparing several personal projects to share here soon! <a href="https://github.com/emirgit">GitHub</a>.</li>
   <li>📝 I plan to upload them in my spare time to showcase my work.</li>
   <li>💬 Ask me about anything <a href="https://github.com/emirgit?tab=repositories">here</a></li>
 </ul>
