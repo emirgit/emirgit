@@ -44,11 +44,11 @@
   
   <p>You can reach me from my email, linkedin or github profile. Follow my socials!</p>
   <a href="https://www.linkedin.com/in/muhammed-emir-kara-787605251/">
-    <img src="https://github.com/emirgit/emirgit/blob/main/assets/linkedin_logo.svg" height="50" alt="Linkedin Logo" />
+    <img src="https://raw.githubusercontent.com/emirgit/emirgit/main/assets/linkedin_logo.svg" height="50" alt="Linkedin Logo" />
   </a>
 
   <a href="mailto:m.emir.kara.business@gmail.com">
-    <img src="https://github.com/emirgit/emirgit/blob/main/assets/gmail_logo.svg" height="50" alt="Mail Logo" />
+    <img src="https://raw.githubusercontent.com/emirgit/emirgit/main/assets/gmail_logo.svg" height="50" alt="Mail Logo" />
   </a>
 
 </div>
@@ -57,7 +57,7 @@
 <div align="center">
   <h2>📢 Find me elsewhere</h2>
   <a href="https://leetcode.com/Emir_28/">
-    <img src="https://github.com/emirgit/emirgit/blob/main/assets/leetcode_logo.svg" alt="leetcode" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/emirgit/emirgit/main/assets/leetcode_logo.svg" alt="leetcode" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
 
 </div>
